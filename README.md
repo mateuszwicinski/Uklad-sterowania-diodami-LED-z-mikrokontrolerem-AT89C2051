@@ -1,1 +1,1 @@
-# Uk-ad-sterowania-diodami-LED-z-mikrokontrolerem-AT89C2051
+# Układ-sterowania-diodami-LED-z-mikrokontrolerem-AT89C2051
