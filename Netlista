@@ -1,0 +1,112 @@
+Netlist
+
+Exported from WicinskiPI.sch at 27.04.2026 19:12
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+GND      C1       1        1          1
+         C2       1        1          1
+         C3       -        -          1
+         IC1      2        GND        1
+         R9       1        1          1
+         S1       3        P          1
+         S1       4        P1         1
+         S2       3        P          1
+         S2       4        P1         1
+         S3       3        P          1
+         S3       4        P1         1
+         S4       3        P          1
+         S4       4        P1         1
+         U1       10       GND        1
+         X1       1        KL         1
+
+N$1      LED8     K        C          1
+         R8       2        2          1
+
+N$2      LED7     K        C          1
+         R7       2        2          1
+
+N$3      LED6     K        C          1
+         R6       2        2          1
+
+N$4      LED5     K        C          1
+         R5       2        2          1
+
+N$5      LED4     K        C          1
+         R4       2        2          1
+
+N$6      LED3     K        C          1
+         R3       2        2          1
+
+N$7      LED2     K        C          1
+         R2       2        2          1
+
+N$8      LED1     K        C          1
+         R1       2        2          1
+
+N$9      R1       1        1          1
+         U1       12       P1.0       1
+
+N$10     R2       1        1          1
+         U1       13       P1.1       1
+
+N$11     R3       1        1          1
+         U1       14       P1.2       1
+
+N$12     R4       1        1          1
+         U1       15       P1.3       1
+
+N$13     R5       1        1          1
+         U1       16       P1.4       1
+
+N$14     R6       1        1          1
+         U1       17       P1.5       1
+
+N$15     R7       1        1          1
+         U1       18       P1.6       1
+
+N$16     R8       1        1          1
+         U1       19       P1.7       1
+
+N$22     S1       1        S          1
+         U1       6        P3.2       1
+
+N$23     S2       1        S          1
+         U1       7        P3.3       1
+
+N$24     S3       1        S          1
+         U1       8        P3.4       1
+
+N$25     S4       1        S          1
+         U1       9        P3.5       1
+
+N$26     C1       2        2          1
+         U1       5        XTAL1      1
+         X2       1        1          1
+
+N$27     C4       -        -          1
+         R9       2        2          1
+         U1       1        RST/VPP    1
+
+N$28     C2       2        2          1
+         U1       4        XTAL2      1
+         X2       2        2          1
+
+N$30     IC1      1        VI         1
+         X1       2        KL         1
+
+N$32     C3       +        +          1
+         C4       +        +          1
+         IC1      3        VO         1
+         LED1     A        A          1
+         LED2     A        A          1
+         LED3     A        A          1
+         LED4     A        A          1
+         LED5     A        A          1
+         LED6     A        A          1
+         LED7     A        A          1
+         LED8     A        A          1
+         U1       20       VCC        1
+
