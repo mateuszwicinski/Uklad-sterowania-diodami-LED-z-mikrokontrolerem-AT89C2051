@@ -15,7 +15,8 @@ Zadanie polegało na odwzorowaniu udostępnionego schematu ideowego w środowisk
 * **Wicinski.gpi** / **Wicinski_drl.dri** – Pliki raportów z procesu generowania plików produkcyjnych.
 * **Netlista** – Wygenerowany spis wszystkich połączeń elektrycznych w układzie.
 
+<img width="1138" height="780" alt="image" src="https://github.com/user-attachments/assets/89d4b56c-34b3-4e55-9d39-945eefa388d2" />
 
-<img width="882" height="596" alt="image" src="https://github.com/user-attachments/assets/fd949f7b-aa1f-4147-92b5-d8c7aca6ad4e" />
+<img width="887" height="589" alt="image" src="https://github.com/user-attachments/assets/8a1e11be-bf53-4dcf-b69f-4504ec89f92f" />
 
-<img width="889" height="597" alt="image" src="https://github.com/user-attachments/assets/135f98f2-9603-4233-87a6-2109f8e3b7dc" />
+<img width="862" height="572" alt="image" src="https://github.com/user-attachments/assets/19585c51-5d30-497a-ba01-8e94652248c3" />
