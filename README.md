@@ -17,6 +17,8 @@ Zadanie polegało na odwzorowaniu udostępnionego schematu ideowego w środowisk
 
 <img width="1138" height="780" alt="image" src="https://github.com/user-attachments/assets/89d4b56c-34b3-4e55-9d39-945eefa388d2" />
 
+
 <img width="887" height="589" alt="image" src="https://github.com/user-attachments/assets/8a1e11be-bf53-4dcf-b69f-4504ec89f92f" />
+
 
 <img width="862" height="572" alt="image" src="https://github.com/user-attachments/assets/19585c51-5d30-497a-ba01-8e94652248c3" />
